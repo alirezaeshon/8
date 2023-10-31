@@ -21,7 +21,7 @@ namespace Rextester
             Console.WriteLine("Hello, Iam Alireza Nazeri.");
             do
             {
-           Console.WriteLine("yek adad varedkon ta fakturielash ra bebini!");
+           Console.WriteLine("do adad vared konid ta ekhtelafshon ra dar olgo mosalasy bebinid!!");
             x = Convert.ToInt32(Console.ReadLine());
             n = Convert.ToInt32(Console.ReadLine());
             }  while(0>x && 0>n);
